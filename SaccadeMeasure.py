@@ -14,7 +14,7 @@ import cv2
 import dlib
 import numpy as np
 
-from gaze_tracking import GazeTracking
+import GazeTracking
 import pygame
 import matplotlib.pyplot as plt
 from scipy.signal import butter, lfilter
